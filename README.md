@@ -1,2 +1,2 @@
-# sppring-boot-projects
+# spring-boot-projects
 Spring-Boot
